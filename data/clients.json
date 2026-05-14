@@ -1,0 +1,902 @@
+[
+  {
+    "client_id": "CLT-0001",
+    "nom": "Schneider",
+    "prenom": "Hélène",
+    "pays": "France",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2020-01-08",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0002",
+    "nom": "Cohen",
+    "prenom": "Martin",
+    "pays": "Espagne",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2018-10-18",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0003",
+    "nom": "Thierry",
+    "prenom": "Adélaïde",
+    "pays": "France",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2023-12-14",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0004",
+    "nom": "Dupré",
+    "prenom": "Susan",
+    "pays": "Suisse",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2019-09-04",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0005",
+    "nom": "Gomes",
+    "prenom": "Luc",
+    "pays": "Panama",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2021-02-16",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0006",
+    "nom": "Moreno",
+    "prenom": "Jérôme",
+    "pays": "France",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2022-12-19",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0007",
+    "nom": "Bertin",
+    "prenom": "Auguste",
+    "pays": "Suisse",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2023-10-02",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0008",
+    "nom": "Camus",
+    "prenom": "Émilie",
+    "pays": "Suisse",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2020-09-28",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0009",
+    "nom": "Marty",
+    "prenom": "Georges",
+    "pays": "Suisse",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2022-04-01",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0010",
+    "nom": "Hebert",
+    "prenom": "Élodie",
+    "pays": "Îles Caïmans",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2025-01-13",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0011",
+    "nom": "Perez",
+    "prenom": "Christine",
+    "pays": "France",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2024-06-13",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0012",
+    "nom": "Couturier",
+    "prenom": "Madeleine",
+    "pays": "Panama",
+    "profession": "Étudiant",
+    "date_ouverture_compte": "2024-09-17",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0013",
+    "nom": "Labbé",
+    "prenom": "Marianne",
+    "pays": "France",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2018-09-30",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0014",
+    "nom": "Hoarau",
+    "prenom": "Élodie",
+    "pays": "France",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2017-04-13",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0015",
+    "nom": "Clerc",
+    "prenom": "Isaac",
+    "pays": "France",
+    "profession": "Étudiant",
+    "date_ouverture_compte": "2017-08-27",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0016",
+    "nom": "Rossi",
+    "prenom": "Noémi",
+    "pays": "Espagne",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2019-04-26",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0017",
+    "nom": "Guibert",
+    "prenom": "Alexandre",
+    "pays": "Îles Caïmans",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2020-08-31",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0018",
+    "nom": "Guillet",
+    "prenom": "Anouk",
+    "pays": "Panama",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2022-07-04",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0019",
+    "nom": "Bousquet",
+    "prenom": "Hélène",
+    "pays": "Espagne",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2023-03-08",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0020",
+    "nom": "Andre",
+    "prenom": "Adélaïde",
+    "pays": "Italie",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2023-03-07",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0021",
+    "nom": "Faure",
+    "prenom": "Jean",
+    "pays": "France",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2017-11-25",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0022",
+    "nom": "Renard",
+    "prenom": "Charlotte",
+    "pays": "Allemagne",
+    "profession": "Étudiant",
+    "date_ouverture_compte": "2019-07-26",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0023",
+    "nom": "De Oliveira",
+    "prenom": "Monique",
+    "pays": "Allemagne",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2024-11-30",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0024",
+    "nom": "Lamy",
+    "prenom": "Thibaut",
+    "pays": "Espagne",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2025-02-04",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0025",
+    "nom": "Tessier",
+    "prenom": "Henri",
+    "pays": "Italie",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2021-06-01",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0026",
+    "nom": "Lebrun",
+    "prenom": "Christine",
+    "pays": "Italie",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2019-02-15",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0027",
+    "nom": "Perrin",
+    "prenom": "Bertrand",
+    "pays": "Espagne",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2019-01-29",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0028",
+    "nom": "Godard",
+    "prenom": "Juliette",
+    "pays": "France",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2016-08-10",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0029",
+    "nom": "Lemoine",
+    "prenom": "Emmanuelle",
+    "pays": "France",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2023-12-30",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0030",
+    "nom": "Dupont",
+    "prenom": "Alexandre",
+    "pays": "Allemagne",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2019-09-24",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0031",
+    "nom": "Boyer",
+    "prenom": "Anouk",
+    "pays": "Panama",
+    "profession": "Étudiant",
+    "date_ouverture_compte": "2022-01-19",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0032",
+    "nom": "Goncalves",
+    "prenom": "Jacques",
+    "pays": "Suisse",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2021-11-17",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0033",
+    "nom": "Hubert",
+    "prenom": "Vincent",
+    "pays": "Italie",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2018-10-15",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0034",
+    "nom": "Ollivier",
+    "prenom": "Marcel",
+    "pays": "France",
+    "profession": "Étudiant",
+    "date_ouverture_compte": "2021-04-03",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0035",
+    "nom": "Olivier",
+    "prenom": "Frédérique",
+    "pays": "Espagne",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2025-04-11",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0036",
+    "nom": "Pereira",
+    "prenom": "Inès",
+    "pays": "Italie",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2022-09-29",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0037",
+    "nom": "Guibert",
+    "prenom": "Théodore",
+    "pays": "Îles Caïmans",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2022-11-25",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0038",
+    "nom": "Lefèvre",
+    "prenom": "Zacharie",
+    "pays": "Îles Caïmans",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2021-12-14",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0039",
+    "nom": "Cohen",
+    "prenom": "Margaux",
+    "pays": "France",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2021-08-29",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0040",
+    "nom": "Roux",
+    "prenom": "Odette",
+    "pays": "Suisse",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2023-12-16",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0041",
+    "nom": "Lacombe",
+    "prenom": "Audrey",
+    "pays": "Panama",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2016-08-16",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0042",
+    "nom": "Carlier",
+    "prenom": "Alphonse",
+    "pays": "Italie",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2020-04-16",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0043",
+    "nom": "Lucas",
+    "prenom": "Marguerite",
+    "pays": "Suisse",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2024-01-03",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0044",
+    "nom": "Martins",
+    "prenom": "Maggie",
+    "pays": "France",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2024-06-02",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0045",
+    "nom": "Daniel",
+    "prenom": "Benoît",
+    "pays": "France",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2020-10-21",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0046",
+    "nom": "Guichard",
+    "prenom": "Roger",
+    "pays": "France",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2019-04-01",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0047",
+    "nom": "Dupont",
+    "prenom": "Madeleine",
+    "pays": "Îles Caïmans",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2016-11-25",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0048",
+    "nom": "Lesage",
+    "prenom": "Océane",
+    "pays": "Suisse",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2025-03-21",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0049",
+    "nom": "Sauvage",
+    "prenom": "Roger",
+    "pays": "France",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2020-11-26",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0050",
+    "nom": "Lesage",
+    "prenom": "Martin",
+    "pays": "Espagne",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2021-10-09",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0051",
+    "nom": "Benard",
+    "prenom": "Claudine",
+    "pays": "France",
+    "profession": "Étudiant",
+    "date_ouverture_compte": "2016-11-01",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0052",
+    "nom": "Moulin",
+    "prenom": "Laure",
+    "pays": "France",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2016-12-10",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0053",
+    "nom": "Jacques",
+    "prenom": "Adrien",
+    "pays": "Espagne",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2024-05-23",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0054",
+    "nom": "Dupont",
+    "prenom": "Anastasie",
+    "pays": "Suisse",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2025-02-04",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0055",
+    "nom": "Lemonnier",
+    "prenom": "Bernard",
+    "pays": "Espagne",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2018-01-19",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0056",
+    "nom": "Navarro",
+    "prenom": "Maggie",
+    "pays": "Allemagne",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2020-03-25",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0057",
+    "nom": "Benoit",
+    "prenom": "Monique",
+    "pays": "France",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2025-01-24",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0058",
+    "nom": "Lemaire",
+    "prenom": "Renée",
+    "pays": "France",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2016-12-17",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0059",
+    "nom": "Monnier",
+    "prenom": "Sabine",
+    "pays": "Îles Caïmans",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2019-08-24",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0060",
+    "nom": "Grégoire",
+    "prenom": "Hugues",
+    "pays": "Italie",
+    "profession": "Étudiant",
+    "date_ouverture_compte": "2024-10-09",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0061",
+    "nom": "Bigot",
+    "prenom": "Laurent",
+    "pays": "France",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2017-10-11",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0062",
+    "nom": "Rousseau",
+    "prenom": "Louis",
+    "pays": "France",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2018-04-02",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0063",
+    "nom": "Robert",
+    "prenom": "Luc",
+    "pays": "Îles Caïmans",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2023-12-03",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0064",
+    "nom": "Richard",
+    "prenom": "Laurence",
+    "pays": "France",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2023-05-07",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0065",
+    "nom": "Dupuis",
+    "prenom": "Diane",
+    "pays": "Îles Caïmans",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2021-10-12",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0066",
+    "nom": "Fournier",
+    "prenom": "Louise",
+    "pays": "Espagne",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2024-08-14",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0067",
+    "nom": "Bonneau",
+    "prenom": "Antoinette",
+    "pays": "Panama",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2019-01-16",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0068",
+    "nom": "Pons",
+    "prenom": "Renée",
+    "pays": "Allemagne",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2020-06-05",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0069",
+    "nom": "Baudry",
+    "prenom": "Christine",
+    "pays": "Panama",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2021-09-10",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0070",
+    "nom": "Pottier",
+    "prenom": "Thierry",
+    "pays": "Italie",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2020-12-06",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0071",
+    "nom": "Garnier",
+    "prenom": "Aimée",
+    "pays": "Îles Caïmans",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2018-11-15",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0072",
+    "nom": "Monnier",
+    "prenom": "Sabine",
+    "pays": "Allemagne",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2017-05-18",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0073",
+    "nom": "Cordier",
+    "prenom": "Alexandria",
+    "pays": "France",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2021-12-01",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0074",
+    "nom": "Marchal",
+    "prenom": "Thérèse",
+    "pays": "Allemagne",
+    "profession": "Indépendant",
+    "date_ouverture_compte": "2016-11-01",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0075",
+    "nom": "Martineau",
+    "prenom": "Chantal",
+    "pays": "France",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2017-03-24",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0076",
+    "nom": "Monnier",
+    "prenom": "Isaac",
+    "pays": "France",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2018-11-12",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0077",
+    "nom": "Perez",
+    "prenom": "Anne",
+    "pays": "France",
+    "profession": "Étudiant",
+    "date_ouverture_compte": "2025-03-21",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0078",
+    "nom": "Julien",
+    "prenom": "Aurore",
+    "pays": "Suisse",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2021-01-25",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0079",
+    "nom": "Weiss",
+    "prenom": "Lucy",
+    "pays": "Îles Caïmans",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2018-02-10",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0080",
+    "nom": "Leroux",
+    "prenom": "Arthur",
+    "pays": "France",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2022-01-25",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0081",
+    "nom": "Camus",
+    "prenom": "William",
+    "pays": "Îles Caïmans",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2018-02-15",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0082",
+    "nom": "Besson",
+    "prenom": "Gilbert",
+    "pays": "Panama",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2019-01-12",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0083",
+    "nom": "Laine",
+    "prenom": "Renée",
+    "pays": "France",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2020-08-05",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0084",
+    "nom": "Barthelemy",
+    "prenom": "Charlotte",
+    "pays": "Italie",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2024-09-17",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0085",
+    "nom": "Reynaud",
+    "prenom": "Antoine",
+    "pays": "Îles Caïmans",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2020-01-22",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0086",
+    "nom": "Valette",
+    "prenom": "Benjamin",
+    "pays": "France",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2023-07-24",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0087",
+    "nom": "Gonzalez",
+    "prenom": "Valérie",
+    "pays": "Italie",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2019-12-31",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0088",
+    "nom": "Dupuy",
+    "prenom": "Claudine",
+    "pays": "Allemagne",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2022-04-04",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0089",
+    "nom": "Besson",
+    "prenom": "Pénélope",
+    "pays": "Îles Caïmans",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2016-06-18",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0090",
+    "nom": "Gilles",
+    "prenom": "Christelle",
+    "pays": "France",
+    "profession": "Étudiant",
+    "date_ouverture_compte": "2023-04-07",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0091",
+    "nom": "Guichard",
+    "prenom": "Luce",
+    "pays": "Allemagne",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2019-11-11",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0092",
+    "nom": "Meyer",
+    "prenom": "Isabelle",
+    "pays": "Suisse",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2017-02-09",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0093",
+    "nom": "Fernandez",
+    "prenom": "Diane",
+    "pays": "Suisse",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2018-11-17",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0094",
+    "nom": "Maillet",
+    "prenom": "William",
+    "pays": "Allemagne",
+    "profession": "Dirigeant",
+    "date_ouverture_compte": "2018-07-02",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0095",
+    "nom": "Huet",
+    "prenom": "Dominique",
+    "pays": "Îles Caïmans",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2019-11-19",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0096",
+    "nom": "Rocher",
+    "prenom": "Nathalie",
+    "pays": "Panama",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2018-09-11",
+    "risque_inherent": "Faible"
+  },
+  {
+    "client_id": "CLT-0097",
+    "nom": "Bonnin",
+    "prenom": "Adrien",
+    "pays": "Panama",
+    "profession": "Salarié",
+    "date_ouverture_compte": "2021-05-04",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0098",
+    "nom": "Alexandre",
+    "prenom": "Alice",
+    "pays": "Espagne",
+    "profession": "Retraité",
+    "date_ouverture_compte": "2019-10-03",
+    "risque_inherent": "Moyen"
+  },
+  {
+    "client_id": "CLT-0099",
+    "nom": "Pasquier",
+    "prenom": "Dorothée",
+    "pays": "Panama",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2016-11-17",
+    "risque_inherent": "Élevé"
+  },
+  {
+    "client_id": "CLT-0100",
+    "nom": "Bouchet",
+    "prenom": "Élisabeth",
+    "pays": "Suisse",
+    "profession": "Inconnu",
+    "date_ouverture_compte": "2022-10-23",
+    "risque_inherent": "Élevé"
+  }
+]

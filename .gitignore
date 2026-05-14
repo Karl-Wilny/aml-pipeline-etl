@@ -1,0 +1,39 @@
+# Environnement virtuel Python
+venv/
+env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Base de données (trop lourde + données sensibles)
+database/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs (générés automatiquement à chaque run)
+logs/
+*.log
+
+# Variables d'environnement (clés API, mots de passe)
+.env
+.env.local
+*.env
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Données exportées (optionnel — tu peux garder alertes_aml.csv)
+# data/alertes_aml.csv
+

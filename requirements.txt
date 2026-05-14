@@ -1,0 +1,17 @@
+# Pipeline ETL & Monitoring AML — BRF Capital
+# Dépendances Python — Karl Wilny KOUMBA MOUANDA
+# Compatible Python 3.10+
+
+# Manipulation et analyse de données
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Base de données
+sqlalchemy>=2.0.0
+
+# Génération de données fictives (dev uniquement)
+faker>=19.0.0
+
+# Ordonnancement de tâches (optionnel — scheduling)
+schedule>=1.2.0
+
