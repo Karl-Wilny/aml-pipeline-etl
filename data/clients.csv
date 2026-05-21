@@ -1,0 +1,101 @@
+﻿client_id;nom;prenom;pays;profession;date_ouverture_compte;risque_inherent;anciennete_compte;pays_a_risque
+CLT-0001;Schneider;Hélène;France;Salarié;2020-01-08;Élevé;6,35068493150685;0
+CLT-0002;Cohen;Martin;Espagne;Dirigeant;2018-10-18;Faible;7,575342465753424;0
+CLT-0003;Thierry;Adélaïde;France;Inconnu;2023-12-14;Faible;2,4164383561643836;0
+CLT-0004;Dupré;Susan;Suisse;Salarié;2019-09-04;Élevé;6,695890410958904;0
+CLT-0005;Gomes;Luc;Panama;Salarié;2021-02-16;Faible;5,241095890410959;1
+CLT-0006;Moreno;Jérôme;France;Dirigeant;2022-12-19;Faible;3,4027397260273973;0
+CLT-0007;Bertin;Auguste;Suisse;Indépendant;2023-10-02;Faible;2,6164383561643834;0
+CLT-0008;Camus;Émilie;Suisse;Dirigeant;2020-09-28;Élevé;5,627397260273972;0
+CLT-0009;Marty;Georges;Suisse;Retraité;2022-04-01;Faible;4,120547945205479;0
+CLT-0010;Hebert;Élodie;Îles Caïmans;Indépendant;2025-01-13;Moyen;1,3315068493150686;1
+CLT-0011;Perez;Christine;France;Dirigeant;2024-06-13;Élevé;1,917808219178082;0
+CLT-0012;Couturier;Madeleine;Panama;Étudiant;2024-09-17;Moyen;1,6547945205479453;1
+CLT-0013;Labbé;Marianne;France;Dirigeant;2018-09-30;Moyen;7,624657534246575;0
+CLT-0014;Hoarau;Élodie;France;Salarié;2017-04-13;Moyen;9,09041095890411;0
+CLT-0015;Clerc;Isaac;France;Étudiant;2017-08-27;Moyen;8,717808219178082;0
+CLT-0016;Rossi;Noémi;Espagne;Salarié;2019-04-26;Élevé;7,054794520547945;0
+CLT-0017;Guibert;Alexandre;Îles Caïmans;Indépendant;2020-08-31;Faible;5,704109589041096;1
+CLT-0018;Guillet;Anouk;Panama;Salarié;2022-07-04;Élevé;3,863013698630137;1
+CLT-0019;Bousquet;Hélène;Espagne;Inconnu;2023-03-08;Élevé;3,186301369863014;0
+CLT-0020;Andre;Adélaïde;Italie;Indépendant;2023-03-07;Faible;3,1890410958904107;0
+CLT-0021;Faure;Jean;France;Salarié;2017-11-25;Élevé;8,471232876712328;0
+CLT-0022;Renard;Charlotte;Allemagne;Étudiant;2019-07-26;Faible;6,8054794520547945;0
+CLT-0023;De Oliveira;Monique;Allemagne;Salarié;2024-11-30;Moyen;1,452054794520548;0
+CLT-0024;Lamy;Thibaut;Espagne;Retraité;2025-02-04;Élevé;1,2712328767123289;0
+CLT-0025;Tessier;Henri;Italie;Dirigeant;2021-06-01;Moyen;4,953424657534247;0
+CLT-0026;Lebrun;Christine;Italie;Dirigeant;2019-02-15;Élevé;7,2465753424657535;0
+CLT-0027;Perrin;Bertrand;Espagne;Inconnu;2019-01-29;Élevé;7,293150684931507;0
+CLT-0028;Godard;Juliette;France;Indépendant;2016-08-10;Élevé;9,764383561643836;0
+CLT-0029;Lemoine;Emmanuelle;France;Indépendant;2023-12-30;Élevé;2,372602739726027;0
+CLT-0030;Dupont;Alexandre;Allemagne;Dirigeant;2019-09-24;Moyen;6,641095890410959;0
+CLT-0031;Boyer;Anouk;Panama;Étudiant;2022-01-19;Élevé;4,317808219178082;1
+CLT-0032;Goncalves;Jacques;Suisse;Dirigeant;2021-11-17;Élevé;4,49041095890411;0
+CLT-0033;Hubert;Vincent;Italie;Salarié;2018-10-15;Faible;7,583561643835616;0
+CLT-0034;Ollivier;Marcel;France;Étudiant;2021-04-03;Moyen;5,115068493150685;0
+CLT-0035;Olivier;Frédérique;Espagne;Salarié;2025-04-11;Faible;1,0904109589041096;0
+CLT-0036;Pereira;Inès;Italie;Dirigeant;2022-09-29;Élevé;3,6246575342465754;0
+CLT-0037;Guibert;Théodore;Îles Caïmans;Retraité;2022-11-25;Élevé;3,4684931506849317;1
+CLT-0038;Lefèvre;Zacharie;Îles Caïmans;Dirigeant;2021-12-14;Moyen;4,416438356164384;1
+CLT-0039;Cohen;Margaux;France;Dirigeant;2021-08-29;Élevé;4,7095890410958905;0
+CLT-0040;Roux;Odette;Suisse;Indépendant;2023-12-16;Moyen;2,410958904109589;0
+CLT-0041;Lacombe;Audrey;Panama;Indépendant;2016-08-16;Moyen;9,747945205479452;1
+CLT-0042;Carlier;Alphonse;Italie;Dirigeant;2020-04-16;Faible;6,079452054794521;0
+CLT-0043;Lucas;Marguerite;Suisse;Retraité;2024-01-03;Faible;2,361643835616438;0
+CLT-0044;Martins;Maggie;France;Salarié;2024-06-02;Faible;1,9479452054794522;0
+CLT-0045;Daniel;Benoît;France;Inconnu;2020-10-21;Moyen;5,564383561643836;0
+CLT-0046;Guichard;Roger;France;Retraité;2019-04-01;Moyen;7,123287671232877;0
+CLT-0047;Dupont;Madeleine;Îles Caïmans;Indépendant;2016-11-25;Moyen;9,471232876712328;1
+CLT-0048;Lesage;Océane;Suisse;Salarié;2025-03-21;Élevé;1,1479452054794521;0
+CLT-0049;Sauvage;Roger;France;Inconnu;2020-11-26;Élevé;5,465753424657534;0
+CLT-0050;Lesage;Martin;Espagne;Inconnu;2021-10-09;Moyen;4,597260273972603;0
+CLT-0051;Benard;Claudine;France;Étudiant;2016-11-01;Moyen;9,536986301369863;0
+CLT-0052;Moulin;Laure;France;Retraité;2016-12-10;Faible;9,43013698630137;0
+CLT-0053;Jacques;Adrien;Espagne;Indépendant;2024-05-23;Faible;1,9753424657534246;0
+CLT-0054;Dupont;Anastasie;Suisse;Salarié;2025-02-04;Élevé;1,2712328767123289;0
+CLT-0055;Lemonnier;Bernard;Espagne;Inconnu;2018-01-19;Élevé;8,32054794520548;0
+CLT-0056;Navarro;Maggie;Allemagne;Dirigeant;2020-03-25;Moyen;6,13972602739726;0
+CLT-0057;Benoit;Monique;France;Indépendant;2025-01-24;Élevé;1,3013698630136987;0
+CLT-0058;Lemaire;Renée;France;Indépendant;2016-12-17;Moyen;9,41095890410959;0
+CLT-0059;Monnier;Sabine;Îles Caïmans;Salarié;2019-08-24;Faible;6,726027397260274;1
+CLT-0060;Grégoire;Hugues;Italie;Étudiant;2024-10-09;Faible;1,5945205479452054;0
+CLT-0061;Bigot;Laurent;France;Dirigeant;2017-10-11;Élevé;8,594520547945205;0
+CLT-0062;Rousseau;Louis;France;Salarié;2018-04-02;Élevé;8,12054794520548;0
+CLT-0063;Robert;Luc;Îles Caïmans;Salarié;2023-12-03;Élevé;2,4465753424657533;1
+CLT-0064;Richard;Laurence;France;Dirigeant;2023-05-07;Élevé;3,021917808219178;0
+CLT-0065;Dupuis;Diane;Îles Caïmans;Indépendant;2021-10-12;Faible;4,589041095890411;1
+CLT-0066;Fournier;Louise;Espagne;Indépendant;2024-08-14;Élevé;1,747945205479452;0
+CLT-0067;Bonneau;Antoinette;Panama;Dirigeant;2019-01-16;Élevé;7,328767123287672;1
+CLT-0068;Pons;Renée;Allemagne;Inconnu;2020-06-05;Moyen;5,942465753424657;0
+CLT-0069;Baudry;Christine;Panama;Inconnu;2021-09-10;Élevé;4,676712328767123;1
+CLT-0070;Pottier;Thierry;Italie;Retraité;2020-12-06;Élevé;5,438356164383562;0
+CLT-0071;Garnier;Aimée;Îles Caïmans;Salarié;2018-11-15;Faible;7,498630136986302;1
+CLT-0072;Monnier;Sabine;Allemagne;Salarié;2017-05-18;Moyen;8,994520547945205;0
+CLT-0073;Cordier;Alexandria;France;Indépendant;2021-12-01;Élevé;4,4520547945205475;0
+CLT-0074;Marchal;Thérèse;Allemagne;Indépendant;2016-11-01;Faible;9,536986301369863;0
+CLT-0075;Martineau;Chantal;France;Salarié;2017-03-24;Élevé;9,145205479452056;0
+CLT-0076;Monnier;Isaac;France;Dirigeant;2018-11-12;Faible;7,506849315068493;0
+CLT-0077;Perez;Anne;France;Étudiant;2025-03-21;Faible;1,1479452054794521;0
+CLT-0078;Julien;Aurore;Suisse;Dirigeant;2021-01-25;Moyen;5,301369863013699;0
+CLT-0079;Weiss;Lucy;Îles Caïmans;Dirigeant;2018-02-10;Élevé;8,26027397260274;1
+CLT-0080;Leroux;Arthur;France;Inconnu;2022-01-25;Élevé;4,301369863013699;0
+CLT-0081;Camus;William;Îles Caïmans;Dirigeant;2018-02-15;Moyen;8,246575342465754;1
+CLT-0082;Besson;Gilbert;Panama;Dirigeant;2019-01-12;Faible;7,33972602739726;1
+CLT-0083;Laine;Renée;France;Inconnu;2020-08-05;Moyen;5,7753424657534245;0
+CLT-0084;Barthelemy;Charlotte;Italie;Retraité;2024-09-17;Moyen;1,6547945205479453;0
+CLT-0085;Reynaud;Antoine;Îles Caïmans;Inconnu;2020-01-22;Faible;6,3123287671232875;1
+CLT-0086;Valette;Benjamin;France;Salarié;2023-07-24;Moyen;2,808219178082192;0
+CLT-0087;Gonzalez;Valérie;Italie;Salarié;2019-12-31;Faible;6,372602739726028;0
+CLT-0088;Dupuy;Claudine;Allemagne;Dirigeant;2022-04-04;Élevé;4,112328767123287;0
+CLT-0089;Besson;Pénélope;Îles Caïmans;Dirigeant;2016-06-18;Moyen;9,90958904109589;1
+CLT-0090;Gilles;Christelle;France;Étudiant;2023-04-07;Moyen;3,1041095890410957;0
+CLT-0091;Guichard;Luce;Allemagne;Salarié;2019-11-11;Moyen;6,50958904109589;0
+CLT-0092;Meyer;Isabelle;Suisse;Salarié;2017-02-09;Faible;9,263013698630138;0
+CLT-0093;Fernandez;Diane;Suisse;Salarié;2018-11-17;Faible;7,493150684931507;0
+CLT-0094;Maillet;William;Allemagne;Dirigeant;2018-07-02;Moyen;7,8712328767123285;0
+CLT-0095;Huet;Dominique;Îles Caïmans;Retraité;2019-11-19;Faible;6,487671232876712;1
+CLT-0096;Rocher;Nathalie;Panama;Salarié;2018-09-11;Faible;7,676712328767123;1
+CLT-0097;Bonnin;Adrien;Panama;Salarié;2021-05-04;Moyen;5,03013698630137;1
+CLT-0098;Alexandre;Alice;Espagne;Retraité;2019-10-03;Moyen;6,616438356164384;0
+CLT-0099;Pasquier;Dorothée;Panama;Inconnu;2016-11-17;Élevé;9,493150684931507;1
+CLT-0100;Bouchet;Élisabeth;Suisse;Inconnu;2022-10-23;Élevé;3,558904109589041;0
