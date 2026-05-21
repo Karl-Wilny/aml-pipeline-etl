@@ -12,7 +12,7 @@
 
 ## 🎯 Contexte du projet
 
-**BRF Capital** — institution financière fictive — traitait ses rapports de conformité AML **manuellement**, avec un délai de détection des anomalies de **7 jours**.
+**BRF Capital** institution financière fictive traitait ses rapports de conformité AML **manuellement**, avec un délai de détection des anomalies de **7 jours**.
 
 Ce pipeline automatise intégralement la chaîne de détection :
 
@@ -192,6 +192,7 @@ python src/alerts.py          # Tester la génération d'alertes
 Spécialisation : Management des SI & Ingénierie Financière
 
 🔗 [Portfolio](https://karl-wilny.github.io/KOUMBA-MOUANDA.github.io/#)  
+🔗 [Application de Réservation Ferroviaire — React.js & Node.js](https://github.com/Karl-Wilny/train-ticket-booking)
 💼 [LinkedIn](https://www.linkedin.com/in/karl-koumba/)
 
 ---
